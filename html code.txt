@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Document</title>
+</head>
+
+<title>  sports Shopping Website</title>
+</head>
+<body>
+    <header id="Home">
+        <nav>
+            <div class="logo">Boxing  Sports Shop </div>
+            <img src="logo.jpg">
+            <div class="menu">
+                <a href="#home">Home</a>
+                <a href="#about us">about us</a>
+                <a href="#contact us">contact us</a>
+                <a href="#">Shop></a>
+            </div>
+        </nav>
+        <div class="container">
+            <div class="upper">
+                <img src="main.jpeg">
+
+            </div>
+    </header>
+    <section id="featured">
+        <h1>Featured</h1>
+        <div class="azaz">
+            <div class="prince">
+                <img src="headband.jpg">
+                <div class="price">Price: 25$</div>
+            </div>
+            <div>
+                <img src="hockey.png">
+                <div class="price">Price: 22$</div>
+            </div>
+            <div>
+                <img src="bat.jpg">
+                <div class="price">Price: 45$</div>
+            </div>
+            <div>
+                <img src="kit.jpg">
+                <div class="price">Price: 39$</div>
+            </div>
+            <div>
+                <img src="track.jpg">
+                <div class="price">Price: 35$</div>
+            </div>
+        </div>
+    </section>
+    <section id="boxing">
+        <h1>boxing wear</h1>
+        <div class="man-row">
+            <div class="man-sec">
+                <img src="gloves.jpg">
+                <h2>boxing gloves<br>17$</h2>
+                <h3>Add to chart</h3>
+            </div>
+            <div class="man-sec">
+                <img src="speedbal.jpg">
+                <h2>speed ball<br>25$</h2>
+                <h3>Add to chart</h3>
+            </div>
+            <div class="man-sec">
+                <img src="punch.jpg">
+                <h2>punching<br>20$</h2>
+                <h3>Add to chart</h3>
+            </div>
+            <div class="man-sec">
+                <img src="legprotect.jpg">
+                <h2> protection pad<br>12$</h2>
+                <h3>Add to chart</h3>
+            </div>
+            <div class="man-sec">
+                <img src="hoddie.jpg">
+                <h2> boxing hoddie <br>10$</h2>
+                <h3>Add to chart</h3>
+            </div>
+        </div>
+        <div class="lower">
+            <h1>Best Quality Products</h1>
+            <p>customer satisfaction is our first priority and we cannot cpmromuse on our quality we privide best service to our clients </p>
+            <p>Contact us Incase of Any Quory</p>
+            <button>contact us</button><br>
+    </section>
+
+
+
+
+</body>
+</html>
